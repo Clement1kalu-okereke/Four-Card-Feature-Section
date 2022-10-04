@@ -32,6 +32,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 1. HTML
 2. CSS
+3. Mobile first Workflow
 
 ### What i Learned
 
